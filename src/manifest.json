@@ -1,7 +1,7 @@
 {
     "name": "Calc",
     "short_name": "Calc",
-    "start_url": "/",
+    "start_url": "https://mstefancich.github.io/calc_1/",
     "background_color": "#6dcdb1",
     "theme_color": "#009578",
     "display": "standalone",
